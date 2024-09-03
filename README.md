@@ -1,4 +1,4 @@
-## Most of my projects are not public
+## Primarily Private Projects
 
 <!--
 **gavinkress/gavinkress** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
