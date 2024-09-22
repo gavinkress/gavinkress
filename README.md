@@ -24,13 +24,17 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 | **Command Line**     | ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
 | **Framework** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)|
 | **IDE** | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)|
+---
 
 ---
-<h1 style= "color:red;"> Priviledged Access Projects & Topics </h1>
+
+# <h1> Priviledged Access Projects & Topics </h1>
+---
 
 ---
+
 # Cybersecurity & System Optimization
-
+---
 ## Automation of Security Protocols
 - Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.
 - Capabilities:
@@ -47,10 +51,10 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   - Scripts to automate software installation and system configuration using package managers like `winget`, `nuget`, and `choco`.
   - Focused on ensuring secure and efficient deployment environments for both personal and professional use.
 
----
+
 
 # Machine Learning & Statistical Modeling
-
+---
 ## Development of Machine Learning Models
 - Creation and fine-tuning of models in **Python** using **PyTorch**, **TensorFlow**, and **scikit-learn**.
 - Projects include:
@@ -68,10 +72,10 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   - Integration of real-time data using **web scraping** from healthcare databases and sources like **WHO** and **CDC**.
   - Advanced statistical analysis using **R** and **Python** with libraries such as **pandas**, **statsmodels**, and **seaborn** for data visualization.
 
----
+
 
 # Scientific Computing & Physics Simulations
-
+---
 ## Physics Simulations
 - Simulations involving advanced physics principles and computations for research and analysis.
 - Capabilities:
@@ -87,10 +91,10 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   - Development of reporting templates, statistical summaries, and predictive diagnostics using **Python** and **R**.
   - Integration with lab instruments and databases for automated workflow management, using **SQL**, **pandas**, and **Excel**.
 
----
+
 
 # Web Scraping & Data Extraction
-
+---
 ## Web Scraping Tools
 - Automated data collection from a wide range of sources for research and analysis.
 - Capabilities:
@@ -98,10 +102,10 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   - Efficient scraping of medical data, financial records, and epidemiological statistics from public databases and APIs.
   - Data cleaning, transformation, and storage using **pandas**, **SQLAlchemy**, and **HDF5** for efficient access and analysis.
 
----
+
 
 # UX/UI Development & Automation Tools
-
+---
 ## UX/UI Development
 - Custom-designed interfaces for user-friendly applications in healthcare, research, and data visualization.
 - Capabilities:
@@ -116,10 +120,10 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   - Workflow automation in clinical and lab settings, integrating multiple software tools like **Excel**, **Access**, and **PowerShell**.
   - Tools for scheduling, file management, and communication across distributed teams using **Zapier** and **IFTTT**.
 
----
+
 
 # Statistical Tools & Data Analysis
-
+---
 ## Advanced Statistical Models
 - Development of statistical tools for deep analysis and hypothesis testing.
 - Capabilities:
@@ -133,10 +137,10 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   - Development of dashboards and visual tools using **matplotlib**, **seaborn**, and **Plotly** for interactive graphics.
   - Statistical plotting for multi-dimensional data, including heatmaps, spider plots, and time-based visualizations.
 
----
+
 
 # Parallel Computing & Optimization
-
+---
 ## High-Performance Computing
 - Use of parallel computing techniques to solve large-scale computational problems.
 - Capabilities:
@@ -149,5 +153,5 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 - Capabilities:
   - Use of **gradient descent**, **simulated annealing**, and other optimization techniques for large-scale data problems.
   - Application of optimization libraries like **SciPy** and **Cvxpy** to solve real-world problems in machine learning, physics, and economics.
----
+
 
