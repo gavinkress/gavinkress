@@ -26,7 +26,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 | **IDE** | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)|
 
 ---
-# Priviledged Access Projects & Topics
+<h1 style= "red"/> Priviledged Access Projects & Topics </h1>
 
 ---
 # Cybersecurity & System Optimization
