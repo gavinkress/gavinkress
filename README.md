@@ -28,7 +28,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 ---
 
-# <h1> Priviledged Access Projects & Topics </h1>
+# <h1 align="center"> Priviledged Access Projects & Topics </h1>
 ---
 
 ---
