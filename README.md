@@ -15,8 +15,21 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 - ⚡ Fun fact: ..
 -->
 
-<iframe src="https://github.com/sponsors/gavinkress/card" title="Sponsor gavinkress" height="225" width="600" style="border: 0;"></iframe>
+---
 
+<h1 align="center">
+  <img src="https://img.icons8.com/?size=100&id=rqO0dD2ziD9L&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+Gavin Kress GitHub
+</h1>
+
+<a href="https://github.com/sponsors/gavinkress">
+ <h3 align="center">
+  <img src="https://img.icons8.com/?size=100&id=rLMbY01ZXrPE&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+Sponsor
+</h3>
+</a>
+
+---
 
 ##
 | **Category**  | **Technologies** |
@@ -28,54 +41,73 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 | **Command Line**     | ![CMD](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white) |
 | **Framework** | ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)|
 | **IDE** | ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Collab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)|
+##
 ---
+<p>
 
----
+  
+</p>
 
-# <h1 align="center"> Priviledged Access Projects & Topics </h1>
----
+<h2 >
+  <img src="https://img.icons8.com/?size=100&id=s9XBerU2L9kg&format=png&color=000000" alt="CS" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+Cybersecurity & System Optimization
+</h2>
 
----
-
-# Cybersecurity & System Optimization
----
-## Automation of Security Protocols
-- Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.
-- Capabilities:
-  - Network monitoring, anomaly detection, and secure access control using **Python**, **Bash**, and **PowerShell**.
-  - Integration with libraries such as **nmap**, **Wireshark**, **Metasploit**, and **Scapy** for automated incident response.
-  - Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.
-
-## System Refactoring & Performance Tuning
-- Optimization of large codebases for faster, parallel execution.
-- Capabilities:
-  - **Threading**, **Multiprocessing**, and **CUDA** for GPU acceleration in **Python**, **C++**, and **C**.
-  - Refactoring to improve runtime efficiency, memory usage, and system stability.
-  - Utilization of multi-core CPU and GPU processing to improve real-time performance across distributed systems.
-  - Scripts to automate software installation and system configuration using package managers like `winget`, `nuget`, and `choco`.
-  - Focused on ensuring secure and efficient deployment environments for both personal and professional use.
+<h3>Automation of Security Protocols</h3>
+<ul>
+<li>Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.</li>
+<li>Capabilities:
+  <ul>
+  <li>Network monitoring, anomaly detection, and secure access control using <b>Python</b>, <b>Bash</b>, and <b>PowerShell</b>.</li>
+  <li>Integration with libraries such as <b>nmap</b>, <b>Wireshark</b>, <b>Metasploit</b>, and <b>Scapy</b> for automated incident response.</li>
+  <li>Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.</li>
+  </ul>
+</li>
+</ul>
 
 
+<h3>System Refactoring & Performance Tuning</h3>
+<ul>
+<li>Optimization of large codebases for faster, parallel execution.</li>
+<li>Capabilities:
+  <ul>
+    <li><b>Threading</b>, <b>Multiprocessing</b>, and <b>CUDA</b> for GPU acceleration in <b>Python</b>, <b>C++</b>, and <b>C</b>.</li>
+    <li>Refactoring to improve runtime efficiency, memory usage, and system stability.</li>
+    <li>Utilization of multi-core CPU and GPU processing to improve real-time performance across distributed systems.</li>
+    <li>Scripts to automate software installation and system configuration using package managers like <code>winget</code>, <code>nuget</code>, and <code>choco</code>.</li>
+    <li>Focused on ensuring secure and efficient deployment environments for both personal and professional use.</li>
 
-# Machine Learning & Statistical Modeling
----
-## Development of Machine Learning Models
-- Creation and fine-tuning of models in **Python** using **PyTorch**, **TensorFlow**, and **scikit-learn**.
-- Projects include:
-  - Predictive models for various domains including medical image analysis and predictive healthcare.
-  - Use of advanced architectures like **CNNs**, **RNNs**, and **transformers** for sequence-based data, image recognition, and natural language processing.
-  - **Bayesian** and **Frequentist** methods for statistical inferences.
-  - Techniques like **hyperparameter tuning**, **cross-validation**, and **ensemble learning** for enhanced model accuracy.
-  - Combining disparate algorithm classes in logic induced data comprehenaions models implementing innovateive pre- and interstage processing strategies.
+  </ul>
+</li>
+</ul>
+
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=89731&format=png&color=000000" alt="ML" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+Machine Learning & Statistical Modeling
+</h2>
+
+<h3>Development of Machine Learning Models</h3>
+<ul>
+<li>Creation and fine-tuning of models in <b>Python</b> using <b>PyTorch</b>, <b>TensorFlow</b>, and <b>scikit-learn</b>.</li>
+<li>Projects include:
+  <ul>
+  <li>Predictive models for medical image analysis and healthcare applications.</li>
+  <li>Use of architectures like <b>CNNs</b>, <b>RNNs</b>, and <b>Transformers</b> for sequence-based data, image recognition and natural language processing.</li>
+
+  <li>Statistical inferences with <b>Bayesian</b> and <b>Frequentist</b> methods.</li>
+  <li><b>Hyperparameter tuning</b>, <b>cross-validation</b>, and <b>ensemble learning</b> for enhanced model accuracy.</li>
+  <li>Combining disparate algorithm classes in logic induced data comprehenaions models implementing innovateive pre- and interstage processing strategies.</li>
+  </ul></li>
 
 
-## Epidemiological & Pandemic Modeling
-- Development of models to simulate disease spread, intervention impacts, and healthcare resource allocation.
-- Capabilities:
-  - Use of **SIR models**, **Agent-based modeling**, and other epidemiological techniques to model infection dynamics.
-  - Integration of real-time data using **web scraping** from healthcare databases and sources like **WHO** and **CDC**.
-  - Advanced statistical analysis using **R** and **Python** with libraries such as **pandas**, **statsmodels**, and **seaborn** for data visualization.
-
+<h3>Epidemiological & Pandemic Modeling</h3>
+<ul>
+<li>Development of models to simulate disease spread, intervention impacts, and healthcare resource allocation.</li>
+<li>Capabilities:</li>
+  <li>Use of <b>SIR models</b>, <b>Agent-based modeling</b>, and other epidemiological techniques to model infection dynamics.</li>
+  <li>Integration of real-time data using <b>web scraping</b> from healthcare databases and sources like <b>WHO</b> and <b>CDC</b>.</li>
+  <li>Advanced statistical analysis using <b>R</b> and <b>Python</b> with libraries such as <b>pandas</b>, <b>statsmodels</b>, and <b>seaborn</b> for data visualization.</li>
+</ul>
 
 
 # Scientific Computing & Physics Simulations
