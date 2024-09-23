@@ -130,6 +130,19 @@ Machine Learning & Statistical Modeling
     </ul>
   </li>
 </ul>
+<h3>Data Wrangling, Formatting, & Labeling</h3>
+<ul>
+  <li>Comprehensive data processing workflows for handling and transforming large datasets.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Efficient data wrangling and cleaning using <b>pandas</b>, <b>NumPy</b>, and <b>Dask</b> for handling millions of data points.</li>
+      <li>Custom scripts to format and standardize datasets for compatibility with machine learning models and statistical tools.</li>
+      <li>Automated labeling, categorization, and annotation of data for supervised learning tasks.</li>
+      <li>Use of regular expressions and custom parsing functions to restructure raw data into structured formats such as CSV, JSON, and SQL databases.</li>
+      <li>Data validation and normalization to ensure consistency and accuracy across datasets.</li>
+    </ul>
+  </li>
+</ul>
 
 
 <h2 >
