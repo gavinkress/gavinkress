@@ -44,46 +44,9 @@ Sponsor
 ##
 ---
 <p>
-
-  
+ 
+   
 </p>
-
-<h2 >
-  <img src="https://img.icons8.com/?size=100&id=s9XBerU2L9kg&format=png&color=000000" alt="CS" style="height: 30px; vertical-align: middle; margin-right: 10px;">
-Cybersecurity & System Optimization
-</h2>
-
-<h3>Automation of Security Protocols</h3>
-<ul>
-<li>Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.</li>
-<li>Capabilities:
-  <ul>
-  <li>Network monitoring, anomaly detection, and secure access control using <b>Python</b>, <b>Bash</b>, and <b>PowerShell</b>.</li>
-  <li>Integration with libraries such as <b>nmap</b>, <b>Wireshark</b>, <b>Metasploit</b>, and <b>Scapy</b> for automated incident response.</li>
-  <li>Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.</li>
-  </ul>
-</li>
-</ul>
-
-
-<h3>System Refactoring & Performance Tuning</h3>
-<ul>
-<li>Optimization of large codebases for faster, parallel execution.</li>
-<li>Capabilities:
-  <ul>
-    <li><b>Threading</b>, <b>Multiprocessing</b>, and <b>CUDA</b> for GPU acceleration in <b>Python</b>, <b>C++</b>, and <b>C</b>.</li>
-    <li>Refactoring to improve runtime efficiency, memory usage, and system stability.</li>
-    <li>Utilization of multi-core CPU and GPU processing to improve real-time performance across distributed systems.</li>
-    <li>Scripts to automate software installation and system configuration using package managers like <code>winget</code>, <code>nuget</code>, and <code>choco</code>.</li>
-    <li>Focused on ensuring secure and efficient deployment environments for both personal and professional use.</li>
-
-  </ul>
-</li>
-</ul>
-
-
-
-
 
 
 <h2>
@@ -166,6 +129,40 @@ Machine Learning & Statistical Modeling
       <li>Data cleaning, transformation, and storage using <b>pandas</b>, <b>SQLAlchemy</b>, and <b>HDF5</b> for efficient access and analysis.</li>
     </ul>
   </li>
+</ul>
+
+
+<h2 >
+  <img src="https://img.icons8.com/?size=100&id=s9XBerU2L9kg&format=png&color=000000" alt="CS" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+Cybersecurity & System Optimization
+</h2>
+
+<h3>Automation of Security Protocols</h3>
+<ul>
+<li>Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.</li>
+<li>Capabilities:
+  <ul>
+  <li>Network monitoring, anomaly detection, and secure access control using <b>Python</b>, <b>Bash</b>, and <b>PowerShell</b>.</li>
+  <li>Integration with libraries such as <b>nmap</b>, <b>Wireshark</b>, <b>Metasploit</b>, and <b>Scapy</b> for automated incident response.</li>
+  <li>Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.</li>
+  </ul>
+</li>
+</ul>
+
+
+<h3>System Refactoring & Performance Tuning</h3>
+<ul>
+<li>Optimization of large codebases for faster, parallel execution.</li>
+<li>Capabilities:
+  <ul>
+    <li><b>Threading</b>, <b>Multiprocessing</b>, and <b>CUDA</b> for GPU acceleration in <b>Python</b>, <b>C++</b>, and <b>C</b>.</li>
+    <li>Refactoring to improve runtime efficiency, memory usage, and system stability.</li>
+    <li>Utilization of multi-core CPU and GPU processing to improve real-time performance across distributed systems.</li>
+    <li>Scripts to automate software installation and system configuration using package managers like <code>winget</code>, <code>nuget</code>, and <code>choco</code>.</li>
+    <li>Focused on ensuring secure and efficient deployment environments for both personal and professional use.</li>
+
+  </ul>
+</li>
 </ul>
 
 
