@@ -23,10 +23,10 @@ Gavin Kress GitHub
 </h1>
 
 <a href="https://github.com/sponsors/gavinkress">
- <h3 align="center">
+ <h4 align="center">
   <img src="https://img.icons8.com/?size=100&id=rLMbY01ZXrPE&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
 Sponsor
-</h3>
+</h4>
 </a>
 
 ---
@@ -81,6 +81,11 @@ Cybersecurity & System Optimization
 </li>
 </ul>
 
+
+
+
+
+
 <h2>
   <img src="https://img.icons8.com/?size=100&id=0UHwSm43ZTSO&format=png&color=000000" alt="ML" style="height: 30px; vertical-align: middle; margin-right: 10px;">
 Machine Learning & Statistical Modeling
@@ -100,9 +105,6 @@ Machine Learning & Statistical Modeling
 </ul>
 </ul>
 
-
-
-
 <h3>Epidemiological & Pandemic Modeling</h3>
 <ul>
 <li>Development of models to simulate disease spread, intervention impacts, and healthcare resource allocation.</li>
@@ -112,8 +114,11 @@ Machine Learning & Statistical Modeling
   <li>Advanced statistical analysis using <b>R</b> and <b>Python</b> with libraries such as <b>pandas</b>, <b>statsmodels</b>, and <b>seaborn</b> for data visualization.</li>
 </ul>
 
+
+
+
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=60234&format=png&color=000000" alt="Physics" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=U6oczNlEPeHv&format=png&color=000000" alt="Physics" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   Scientific Computing & Physics Simulations
 </h2>
 
@@ -147,8 +152,8 @@ Machine Learning & Statistical Modeling
 
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=85625&format=png&color=000000" alt="Web Scraping" style="height: 30px; vertical-align: middle; margin-right: 10px;">
-  Web Scraping & Data Extraction
+  <img src="https://img.icons8.com/?size=100&id=lxvJ4regpAYt&format=png&color=000000" alt="Web Scraping" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  Web Scraping & Automated Data Extraction
 </h2>
 
 <h3>Web Scraping Tools</h3>
@@ -167,7 +172,7 @@ Machine Learning & Statistical Modeling
 
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=54358&format=png&color=000000" alt="UI/UX" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=YCbKhwUNH1pc&format=png&color=000000" alt="UI/UX" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   UX/UI Development & Automation Tools
 </h2>
 
@@ -195,8 +200,12 @@ Machine Learning & Statistical Modeling
   </li>
 </ul>
 
+
+
+
+
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=60197&format=png&color=000000" alt="Stats" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=cgRcQu5xLDJO&format=png&color=000000" alt="Stats" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   Statistical Tools & Data Analysis
 </h2>
 
@@ -223,8 +232,12 @@ Machine Learning & Statistical Modeling
   </li>
 </ul>
 
+
+
+
+
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=60174&format=png&color=000000" alt="Parallel" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=U6oczNlEPeHv&format=png&color=000000" alt="Parallel" style="height: 30px; vertical-align: middle; margin-right: 10px;">
   Parallel Computing & Optimization
 </h2>
 
