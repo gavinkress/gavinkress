@@ -82,14 +82,14 @@ Cybersecurity & System Optimization
 </ul>
 
 <h2>
-  <img src="https://img.icons8.com/?size=100&id=89731&format=png&color=000000" alt="ML" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=0UHwSm43ZTSO&format=png&color=000000" alt="ML" style="height: 30px; vertical-align: middle; margin-right: 10px;">
 Machine Learning & Statistical Modeling
 </h2>
 
 <h3>Development of Machine Learning Models</h3>
 <ul>
 <li>Creation and fine-tuning of models in <b>Python</b> using <b>PyTorch</b>, <b>TensorFlow</b>, and <b>scikit-learn</b>.</li>
-<li>Projects include:
+<li>Projects include:</li>
   <ul>
   <li>Predictive models for medical image analysis and healthcare applications.</li>
   <li>Use of architectures like <b>CNNs</b>, <b>RNNs</b>, and <b>Transformers</b> for sequence-based data, image recognition and natural language processing.</li>
@@ -97,7 +97,10 @@ Machine Learning & Statistical Modeling
   <li>Statistical inferences with <b>Bayesian</b> and <b>Frequentist</b> methods.</li>
   <li><b>Hyperparameter tuning</b>, <b>cross-validation</b>, and <b>ensemble learning</b> for enhanced model accuracy.</li>
   <li>Combining disparate algorithm classes in logic induced data comprehenaions models implementing innovateive pre- and interstage processing strategies.</li>
-  </ul></li>
+</ul>
+</ul>
+
+
 
 
 <h3>Epidemiological & Pandemic Modeling</h3>
@@ -109,85 +112,141 @@ Machine Learning & Statistical Modeling
   <li>Advanced statistical analysis using <b>R</b> and <b>Python</b> with libraries such as <b>pandas</b>, <b>statsmodels</b>, and <b>seaborn</b> for data visualization.</li>
 </ul>
 
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=60234&format=png&color=000000" alt="Physics" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  Scientific Computing & Physics Simulations
+</h2>
 
-# Scientific Computing & Physics Simulations
----
-## Physics Simulations
-- Simulations involving advanced physics principles and computations for research and analysis.
-- Capabilities:
-  - Development of simulations, models, and visualizations for **fluid dynamics**, **electromagnetic field theory**, **quantum mechanics**, **general relativity**, and **modern feild theories**.
-  - Use of tools in **Python**, **Mathematica**, **MATLAB**, **Simulink**, and **NumPy** for high-precision modeling.
-  - Custom algorithms for solving complex differential equations and numerical modeling.
-  - Models for particle interaction in various physical force fields, applied to both theoretical and practical problems.
-  - Developed simulations to address neurosurgical and mechanical engineering challenges.
-
-## Clinical Report Generation & Lab Workflow Tools
-- Automation and streamlining of report generation in clinical environments.
-- Capabilities:
-  - Development of reporting templates, statistical summaries, and predictive diagnostics using **Python** and **R**.
-  - Integration with lab instruments and databases for automated workflow management, using **SQL**, **pandas**, and **Excel**.
-
-
-
-# Web Scraping & Data Extraction
----
-## Web Scraping Tools
-- Automated data collection from a wide range of sources for research and analysis.
-- Capabilities:
-  - Use of libraries such as **BeautifulSoup**, **Scrapy**, and **Selenium** to extract and organize large datasets.
-  - Efficient scraping of medical data, financial records, and epidemiological statistics from public databases and APIs.
-  - Data cleaning, transformation, and storage using **pandas**, **SQLAlchemy**, and **HDF5** for efficient access and analysis.
+<h3>Physics Simulations</h3>
+<ul>
+  <li>Simulations involving advanced physics principles and computations for research and analysis.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Development of simulations, models, and visualizations for <b>fluid dynamics</b>, <b>electromagnetic field theory</b>, <b>quantum mechanics</b>, <b>general relativity</b>, and <b>modern field theories</b>.</li>
+      <li>Use of tools in <b>Python</b>, <b>Mathematica</b>, <b>MATLAB</b>, <b>Simulink</b>, and <b>NumPy</b> for high-precision modeling.</li>
+      <li>Custom algorithms for solving complex differential equations and numerical modeling.</li>
+      <li>Models for particle interaction in various physical force fields, applied to both theoretical and practical problems.</li>
+      <li>Developed simulations to address neurosurgical and mechanical engineering challenges.</li>
+    </ul>
+  </li>
+</ul>
 
 
-
-# UX/UI Development & Automation Tools
----
-## UX/UI Development
-- Custom-designed interfaces for user-friendly applications in healthcare, research, and data visualization.
-- Capabilities:
-  - Development of responsive web applications using **HTML**, **CSS**, and **JavaScript**.
-  - Integration with **Bootstrap**, **React**, and **Vue.js** for enhanced interactivity and data visualization.
-  - Focus on accessibility and usability, ensuring high-quality UX for end-users.
-
-## Task Automation
-- Automation scripts for repetitive workflows across research and development environments.
-- Capabilities:
-  - Automated data collection, cleaning, analysis, and reporting using **Python** and **Bash**.
-  - Workflow automation in clinical and lab settings, integrating multiple software tools like **Excel**, **Access**, and **PowerShell**.
-  - Tools for scheduling, file management, and communication across distributed teams using **Zapier** and **IFTTT**.
+<h3>Clinical Report Generation & Lab Workflow Tools</h3>
+<ul>
+  <li>Automation and streamlining of report generation in clinical environments.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Development of reporting templates, statistical summaries, and predictive diagnostics using <b>Python</b> and <b>R</b>.</li>
+      <li>Integration with lab instruments and databases for automated workflow management, using <b>SQL</b>, <b>pandas</b>, and <b>Excel</b>.</li>
+    </ul>
+  </li>
+</ul>
 
 
 
-# Statistical Tools & Data Analysis
----
-## Advanced Statistical Models
-- Development of statistical tools for deep analysis and hypothesis testing.
-- Capabilities:
-  - Use of **Linear Mixed Models**, **Generalized Linear Models**, and **Bayesian Inference**, and more in data reactive models to explore complex datasets.
-  - Time series analysis, survival models, and cross-sectional study analysis using **statsmodels**, **SciPy**, and **R**.
-  - Custom-built tools for regression, residual diagnostics, and sensitivity analysis.
 
-## Data Visualization Tools
-- Creation of comprehensive visualizations for data-driven decision-making.
-- Capabilities:
-  - Development of dashboards and visual tools using **matplotlib**, **seaborn**, and **Plotly** for interactive graphics.
-  - Statistical plotting for multi-dimensional data, including heatmaps, spider plots, and time-based visualizations.
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=85625&format=png&color=000000" alt="Web Scraping" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  Web Scraping & Data Extraction
+</h2>
 
-
-
-# Parallel Computing & Optimization
----
-## High-Performance Computing
-- Use of parallel computing techniques to solve large-scale computational problems.
-- Capabilities:
-  - Efficiently running processes across multiple CPU/GPU cores using **OpenMP**, **CUDA**, and **MPI**.
-  - Code optimization for distributed systems, focusing on reducing computation time and memory overhead.
-  - Utilization of libraries like **Dask** and **Ray** for parallel processing in Python.
-
-## Numerical Optimization
-- Development of algorithms for solving complex optimization problems in engineering and physics.
-- Capabilities:
-  - Use of **gradient descent**, **simulated annealing**, and other optimization techniques for large-scale data problems.
-  - Application of optimization libraries like **SciPy** and **Cvxpy** to solve real-world problems in machine learning, physics, and economics.
+<h3>Web Scraping Tools</h3>
+<ul>
+  <li>Automated data collection from a wide range of sources for research and analysis.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Use of libraries such as <b>BeautifulSoup</b>, <b>Scrapy</b>, and <b>Selenium</b> to extract and organize large datasets.</li>
+      <li>Efficient scraping of medical data, financial records, and epidemiological statistics from public databases and APIs.</li>
+      <li>Data cleaning, transformation, and storage using <b>pandas</b>, <b>SQLAlchemy</b>, and <b>HDF5</b> for efficient access and analysis.</li>
+    </ul>
+  </li>
+</ul>
 
 
+
+
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=54358&format=png&color=000000" alt="UI/UX" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  UX/UI Development & Automation Tools
+</h2>
+
+<h3>UX/UI Development</h3>
+<ul>
+  <li>Custom-designed interfaces for user-friendly applications in healthcare, research, and data visualization.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Development of responsive web applications using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
+      <li>Integration with <b>Bootstrap</b>, <b>React</b>, and <b>Vue.js</b> for enhanced interactivity and data visualization.</li>
+      <li>Focus on accessibility and usability, ensuring high-quality UX for end-users.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Task Automation</h3>
+<ul>
+  <li>Automation scripts for repetitive workflows across research and development environments.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Automated data collection, cleaning, analysis, and reporting using <b>Python</b> and <b>Bash</b>.</li>
+      <li>Workflow automation in clinical and lab settings, integrating multiple software tools like <b>Excel</b>, <b>Access</b>, and <b>PowerShell</b>.</li>
+      <li>Tools for scheduling, file management, and communication across distributed teams using <b>Zapier</b> and <b>IFTTT</b>.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=60197&format=png&color=000000" alt="Stats" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  Statistical Tools & Data Analysis
+</h2>
+
+<h3>Advanced Statistical Models</h3>
+<ul>
+  <li>Development of statistical tools for deep analysis and hypothesis testing.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Use of <b>Linear Mixed Models</b>, <b>Generalized Linear Models</b>, and <b>Bayesian Inference</b> to explore complex datasets.</li>
+      <li>Time series analysis, survival models, and cross-sectional study analysis using <b>statsmodels</b>, <b>SciPy</b>, and <b>R</b>.</li>
+      <li>Custom-built tools for regression, residual diagnostics, and sensitivity analysis.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Data Visualization Tools</h3>
+<ul>
+  <li>Creation of comprehensive visualizations for data-driven decision-making.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Development of dashboards and visual tools using <b>matplotlib</b>, <b>seaborn</b>, and <b>Plotly</b> for interactive graphics.</li>
+      <li>Statistical plotting for multi-dimensional data, including heatmaps, spider plots, and time-based visualizations.</li>
+    </ul>
+  </li>
+</ul>
+
+<h2>
+  <img src="https://img.icons8.com/?size=100&id=60174&format=png&color=000000" alt="Parallel" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+  Parallel Computing & Optimization
+</h2>
+
+<h3>High-Performance Computing</h3>
+<ul>
+  <li>Use of parallel computing techniques to solve large-scale computational problems.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Efficiently running processes across multiple CPU/GPU cores using <b>OpenMP</b>, <b>CUDA</b>, and <b>MPI</b>.</li>
+      <li>Code optimization for distributed systems, focusing on reducing computation time and memory overhead.</li>
+      <li>Utilization of libraries like <b>Dask</b> and <b>Ray</b> for parallel processing in Python.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3>Numerical Optimization</h3>
+<ul>
+  <li>Development of algorithms for solving complex optimization problems in engineering and physics.</li>
+  <li>Capabilities:
+    <ul>
+      <li>Use of <b>gradient descent</b>, <b>simulated annealing</b>, and other optimization techniques for large-scale data problems.</li>
+      <li>Application of optimization libraries like <b>SciPy</b> and <b>Cvxpy</b> to solve real-world problems in machine learning, physics, and economics.</li>
+    </ul>
+  </li>
+</ul>
