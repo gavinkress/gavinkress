@@ -49,19 +49,37 @@ Sponsor
 | **OS** |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)|
 ##
 ---
-<!DOCTYPE html>
-<svg width="160" height="60" style="border:1px red solid" xmlns="http://www.w3.org/2000/svg">
-    <foreignobject class="node" width="150" height="50">
-        <div style="border:1px green solid">    
-               <iframe src="https://github.com/sponsors/gavinkress/button" 
-            title="Sponsor gavinkress" 
-            height="32" 
-            width="114" 
-            style="border: 0; border-radius: 6px;">
-                 </iframe>
-            </div>                
-     </foreignobject>
+
+<main>
+    <div class="d-flex p-3">
+  <div class="mr-3">
+    <a target="_top" data-hovercard-type="user" data-hovercard-url="/users/gavinkress/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gavinkress" data-view-component="true" class="Link d-inline-block"><img src="https://avatars.githubusercontent.com/u/62406542?s=96&amp;v=4" alt="@gavinkress" size="48" height="48" width="48" data-view-component="true" class="avatar circle"></a>
+  </div>
+
+  <div class="d-sm-flex flex-auto">
+    <div class="flex-sm-auto mr-sm-3">
+      <div class="h3 mb-2">
+        Sponsor Gavin Kress on GitHub Sponsors
+      </div>
+      <div class="mb-2">
+        Sponsor Gavin for Privileged Access to a Custom Project Version
+      </div>
+    </div>
+    <div>
+      <a href="/sponsors/gavinkress?o=esc" aria-label="Sponsor @gavinkress" target="_top" data-view-component="true" class="Button--secondary Button--medium Button Button--fullWidth">  <span class="Button-content">
+      <span class="Button-visual Button-leadingVisual">
+        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart color-fg-sponsors">
+    <path d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"></path>
 </svg>
+      </span>
+    <span class="Button-label">Sponsor</span>
+  </span>
+</a>
+    </div>
+  </div>
+</div>
+
+  </main>
 
 
 <h2>
