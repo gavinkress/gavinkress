@@ -73,70 +73,10 @@ Sponsor
         <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000" />
         <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png" />
         <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg" />
-        <meta name="theme-color" content="#1e2327" />
-        <meta name="color-scheme" content="light dark" />
         <meta name="msapplication-TileImage" content="/windows-tile.png" />
         <meta name="msapplication-TileColor" content="#ffffff" />
         <link rel="manifest" href="/manifest.json" crossorigin="use-credentials" />
     </head>
-    <body style="word-wrap: break-word" class="vsc-initialized">
-        <div data-turbo-body="" style="word-wrap: break-word">
-            <main>
-                <div class="d-flex p-3">
-                    <div class="mr-3">
-                        <a
-                        target="_top"
-                        data-hovercard-type="user"
-                        data-hovercard-url="/users/gavinkress/hovercard"
-                        data-octo-click="hovercard-link-click"
-                        data-octo-dimensions="link_type:self"
-                        href="/gavinkress"
-                        data-view-component="true"
-                        class="Link d-inline-block"
-                        ><img
-                            src="https://avatars.githubusercontent.com/u/62406542?s=96&amp;v=4"
-                            alt="@gavinkress"
-                            size="48"
-                            height="48"
-                            width="48"
-                            data-view-component="true"
-                            class="avatar circle"
-                        /></a>
-                    </div>
-                    <div class="d-sm-flex flex-auto">
-                        <div class="flex-sm-auto mr-sm-3">
-                            <div class="mb-2">Sponsor Gavin for Privileged Access to a Custom Project Version</div>
-                        </div>
-                        <div>
-                            <a
-                                href="/sponsors/gavinkress?o=esc"
-                                aria-label="Sponsor @gavinkress"
-                                target="_top"
-                                data-view-component="true"
-                                class="Button--secondary Button--medium Button Button--fullWidth"
-                            >
-                                <span class="Button-content">
-                                    <span class="Button-visual Button-leadingVisual">
-                                        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart color-fg-sponsors">
-                                            <path
-                                                d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"
-                                            ></path>
-                                        </svg>
-                                    </span>
-                                    <span class="Button-label">Sponsor</span>
-                                </span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </main>
-        </div>
-        <div id="js-global-screen-reader-notice" class="sr-only mt-n1" aria-live="polite" aria-atomic="true"></div>
-        <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
-    </body>
-</html>
-
-<html>
     <body>
         <div>
             <h2>
