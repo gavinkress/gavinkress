@@ -60,8 +60,6 @@ Sponsor
     <link rel="preconnect" href="https://avatars.githubusercontent.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/sponsors-embed-05cf6ca4e2d6.css" />
-    <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats" />
-    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors" />
     <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000" />
     <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png" />
     <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg" />
@@ -97,7 +95,6 @@ Sponsor
           </div>
           <div class="d-sm-flex flex-auto">
             <div class="flex-sm-auto mr-sm-3">
-              <div class="h3 mb-2">Sponsor Gavin Kress on GitHub Sponsors</div>
               <div class="mb-2">Sponsor Gavin for Privileged Access to a Custom Project Version</div>
             </div>
             <div>
