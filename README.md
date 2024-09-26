@@ -71,10 +71,8 @@ Sponsor
           class="avatar circle"
       /></a>
     </div>
-
     <div class="d-sm-flex flex-auto">
       <div class="flex-sm-auto mr-sm-3">
-        <div class="h3 mb-2">Sponsor Gavin Kress on GitHub Sponsors</div>
         <div class="mb-2">Sponsor Gavin for Privileged Access to a Custom Project Version</div>
       </div>
       <div>
@@ -113,7 +111,6 @@ Sponsor
   <ul>
     <li>Predictive models for medical image analysis and healthcare applications.</li>
     <li>Use of architectures like <b>CNNs</b>, <b>RNNs</b>, and <b>Transformers</b> for sequence-based data, image recognition and natural language processing.</li>
-
     <li>Statistical inferences with <b>Bayesian</b> and <b>Frequentist</b> methods.</li>
     <li><b>Hyperparameter tuning</b>, <b>cross-validation</b>, and <b>ensemble learning</b> for enhanced model accuracy.</li>
     <li>Combining disparate algorithm classes in logic induced data comprehenaions models implementing innovateive pre- and interstage processing strategies.</li>
