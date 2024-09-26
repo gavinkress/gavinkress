@@ -49,270 +49,196 @@ Sponsor
 | **OS** |![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white) ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0) ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white) ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)|
 ##
 ---
-<main>
-  <div class="d-flex p-3">
-    <div class="mr-3">
-      <a
-        target="_top"
-        data-hovercard-type="user"
-        data-hovercard-url="/users/gavinkress/hovercard"
-        data-octo-click="hovercard-link-click"
-        data-octo-dimensions="link_type:self"
-        href="/gavinkress"
-        data-view-component="true"
-        class="Link d-inline-block"
-        ><img
-          src="https://avatars.githubusercontent.com/u/62406542?s=96&amp;v=4"
-          alt="@gavinkress"
-          size="48"
-          height="48"
-          width="48"
-          data-view-component="true"
-          class="avatar circle"
-      /></a>
+<html lang="en" data-color-mode="auto" data-light-theme="light" data-dark-theme="dark" data-a11y-animated-images="system" data-a11y-link-underlines="true">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="dns-prefetch" href="https://github.githubassets.com" />
+    <link rel="dns-prefetch" href="https://avatars.githubusercontent.com" />
+    <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com" />
+    <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/" />
+    <link rel="preconnect" href="https://github.githubassets.com" crossorigin="" />
+    <link rel="preconnect" href="https://avatars.githubusercontent.com" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/sponsors-embed-05cf6ca4e2d6.css" />
+    <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats" />
+    <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors" />
+    <link rel="mask-icon" href="https://github.githubassets.com/assets/pinned-octocat-093da3e6fa40.svg" color="#000000" />
+    <link rel="alternate icon" class="js-site-favicon" type="image/png" href="https://github.githubassets.com/favicons/favicon.png" />
+    <link rel="icon" class="js-site-favicon" type="image/svg+xml" href="https://github.githubassets.com/favicons/favicon.svg" />
+    <meta name="theme-color" content="#1e2327" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="msapplication-TileImage" content="/windows-tile.png" />
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials" />
+  </head>
+  <body style="word-wrap: break-word" class="vsc-initialized">
+    <div data-turbo-body="" style="word-wrap: break-word">
+      <main>
+        <div class="d-flex p-3">
+          <div class="mr-3">
+            <a
+              target="_top"
+              data-hovercard-type="user"
+              data-hovercard-url="/users/gavinkress/hovercard"
+              data-octo-click="hovercard-link-click"
+              data-octo-dimensions="link_type:self"
+              href="/gavinkress"
+              data-view-component="true"
+              class="Link d-inline-block"
+              ><img
+                src="https://avatars.githubusercontent.com/u/62406542?s=96&amp;v=4"
+                alt="@gavinkress"
+                size="48"
+                height="48"
+                width="48"
+                data-view-component="true"
+                class="avatar circle"
+            /></a>
+          </div>
+          <div class="d-sm-flex flex-auto">
+            <div class="flex-sm-auto mr-sm-3">
+              <div class="h3 mb-2">Sponsor Gavin Kress on GitHub Sponsors</div>
+              <div class="mb-2">Sponsor Gavin for Privileged Access to a Custom Project Version</div>
+            </div>
+            <div>
+              <a
+                href="/sponsors/gavinkress?o=esc"
+                aria-label="Sponsor @gavinkress"
+                target="_top"
+                data-view-component="true"
+                class="Button--secondary Button--medium Button Button--fullWidth"
+              >
+                <span class="Button-content">
+                  <span class="Button-visual Button-leadingVisual">
+                    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart color-fg-sponsors">
+                      <path
+                        d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"
+                      ></path>
+                    </svg>
+                  </span>
+                  <span class="Button-label">Sponsor</span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </main>
     </div>
-    <div class="d-sm-flex flex-auto">
-      <div class="flex-sm-auto mr-sm-3">
-        <div class="mb-2">Sponsor Gavin for Privileged Access to a Custom Project Version</div>
-      </div>
-      <div>
-        <a
-          href="/sponsors/gavinkress?o=esc"
-          aria-label="Sponsor @gavinkress"
-          target="_top"
-          data-view-component="true"
-          class="Button--secondary Button--medium Button Button--fullWidth"
-        >
-          <span class="Button-content">
-            <span class="Button-visual Button-leadingVisual">
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-heart color-fg-sponsors">
-                <path
-                  d="m8 14.25.345.666a.75.75 0 0 1-.69 0l-.008-.004-.018-.01a7.152 7.152 0 0 1-.31-.17 22.055 22.055 0 0 1-3.434-2.414C2.045 10.731 0 8.35 0 5.5 0 2.836 2.086 1 4.25 1 5.797 1 7.153 1.802 8 3.02 8.847 1.802 10.203 1 11.75 1 13.914 1 16 2.836 16 5.5c0 2.85-2.045 5.231-3.885 6.818a22.066 22.066 0 0 1-3.744 2.584l-.018.01-.006.003h-.002ZM4.25 2.5c-1.336 0-2.75 1.164-2.75 3 0 2.15 1.58 4.144 3.365 5.682A20.58 20.58 0 0 0 8 13.393a20.58 20.58 0 0 0 3.135-2.211C12.92 9.644 14.5 7.65 14.5 5.5c0-1.836-1.414-3-2.75-3-1.373 0-2.609.986-3.029 2.456a.749.749 0 0 1-1.442 0C6.859 3.486 5.623 2.5 4.25 2.5Z"
-                ></path>
-              </svg>
-            </span>
-            <span class="Button-label">Sponsor</span>
-          </span>
-        </a>
-      </div>
+    <div id="js-global-screen-reader-notice" class="sr-only mt-n1" aria-live="polite" aria-atomic="true"></div>
+    <div id="js-global-screen-reader-notice-assertive" class="sr-only mt-n1" aria-live="assertive" aria-atomic="true"></div>
+    <div>
+      <h2>
+        <img src="https://img.icons8.com/?size=100&id=s9XBerU2L9kg&format=png&color=000000" alt="CS" style="height: 30px; vertical-align: middle; margin-right: 10px" />
+        Cybersecurity & System Optimization
+      </h2>
+      <h3>Automation of Security Protocols</h3>
+      <ul>
+        <li>Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Network monitoring, anomaly detection, and secure access control using <b>Python</b>, <b>Bash</b>, and <b>PowerShell</b>.</li>
+            <li>Integration with libraries such as <b>nmap</b>, <b>Wireshark</b>, <b>Metasploit</b>, and <b>Scapy</b> for automated incident response.</li>
+            <li>Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.</li>
+          </ul>
+        </li>
+      </ul>
+      <h3>System Refactoring & Performance Tuning</h3>
+      <ul>
+        <li>Optimization of large codebases for faster, parallel execution.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li><b>Threading</b>, <b>Multiprocessing</b>, and <b>CUDA</b> for GPU acceleration in <b>Python</b>, <b>C++</b>, and <b>C</b>.</li>
+            <li>Refactoring to improve runtime efficiency, memory usage, and system stability.</li>
+            <li>Utilization of multi-core CPU and GPU processing to improve real-time performance across distributed systems.</li>
+            <li>Scripts to automate software installation and system configuration using package managers like <code>winget</code>, <code>nuget</code>, and <code>choco</code>.</li>
+            <li>Focused on ensuring secure and efficient deployment environments for both personal and professional use.</li>
+          </ul>
+        </li>
+      </ul>
+      <h2>
+        <img src="https://img.icons8.com/?size=100&id=YCbKhwUNH1pc&format=png&color=000000" alt="UI/UX" style="height: 30px; vertical-align: middle; margin-right: 10px" />
+        UX/UI Development & Automation Tools
+      </h2>
+      <h3>UX/UI Development</h3>
+      <ul>
+        <li>Custom-designed interfaces for user-friendly applications in healthcare, research, and data visualization.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Development of responsive web applications using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
+            <li>Integration with <b>Bootstrap</b>, <b>React</b>, and <b>Vue.js</b> for enhanced interactivity and data visualization.</li>
+            <li>Focus on accessibility and usability, ensuring high-quality UX for end-users.</li>
+          </ul>
+        </li>
+      </ul>
+      <h3>Task Automation</h3>
+      <ul>
+        <li>Automation scripts for repetitive workflows across research and development environments.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Automated data collection, cleaning, analysis, and reporting using <b>Python</b> and <b>Bash</b>.</li>
+            <li>Workflow automation in clinical and lab settings, integrating multiple software tools like <b>Excel</b>, <b>Access</b>, and <b>PowerShell</b>.</li>
+            <li>Tools for scheduling, file management, and communication across distributed teams using <b>Zapier</b> and <b>IFTTT</b>.</li>
+          </ul>
+        </li>
+      </ul>
+      <h2>
+        <img src="https://img.icons8.com/?size=100&id=cgRcQu5xLDJO&format=png&color=000000" alt="Stats" style="height: 30px; vertical-align: middle; margin-right: 10px" />
+        Statistical Tools & Data Analysis
+      </h2>
+      <h3>Advanced Statistical Models</h3>
+      <ul>
+        <li>Development of statistical tools for deep analysis and hypothesis testing.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Use of <b>Linear Mixed Models</b>, <b>Generalized Linear Models</b>, and <b>Bayesian Inference</b> to explore complex datasets.</li>
+            <li>Time series analysis, survival models, and cross-sectional study analysis using <b>statsmodels</b>, <b>SciPy</b>, and <b>R</b>.</li>
+            <li>Custom-built tools for regression, residual diagnostics, and sensitivity analysis.</li>
+          </ul>
+        </li>
+      </ul>
+      <h3>Data Visualization Tools</h3>
+      <ul>
+        <li>Creation of comprehensive visualizations for data-driven decision-making.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Development of dashboards and visual tools using <b>matplotlib</b>, <b>seaborn</b>, and <b>Plotly</b> for interactive graphics.</li>
+            <li>Statistical plotting for multi-dimensional data, including heatmaps, spider plots, and time-based visualizations.</li>
+          </ul>
+        </li>
+      </ul>
+      <h2>
+        <img src="https://img.icons8.com/?size=100&id=U6oczNlEPeHv&format=png&color=000000" alt="Parallel" style="height: 30px; vertical-align: middle; margin-right: 10px" />
+        Parallel Computing & Optimization
+      </h2>
+      <h3>High-Performance Computing</h3>
+      <ul>
+        <li>Use of parallel computing techniques to solve large-scale computational problems.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Efficiently running processes across multiple CPU/GPU cores using <b>OpenMP</b>, <b>CUDA</b>, and <b>MPI</b>.</li>
+            <li>Code optimization for distributed systems, focusing on reducing computation time and memory overhead.</li>
+            <li>Utilization of libraries like <b>Dask</b> and <b>Ray</b> for parallel processing in Python.</li>
+          </ul>
+        </li>
+      </ul>
+      <h3>Numerical Optimization</h3>
+      <ul>
+        <li>Development of algorithms for solving complex optimization problems in engineering and physics.</li>
+        <li>
+          Capabilities:
+          <ul>
+            <li>Use of <b>gradient descent</b>, <b>simulated annealing</b>, and other optimization techniques for large-scale data problems.</li>
+            <li>Application of optimization libraries like <b>SciPy</b> and <b>Cvxpy</b> to solve real-world problems in machine learning, physics, and economics.</li>
+          </ul>
+        </li>
+      </ul>
     </div>
-  </div>
-</main>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=0UHwSm43ZTSO&format=png&color=000000" alt="ML" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  Machine Learning & Statistical Modeling
-</h2>
-
-<h3>Development of Machine Learning Models</h3>
-<ul>
-  <li>Creation and fine-tuning of models in <b>Python</b> using <b>PyTorch</b>, <b>TensorFlow</b>, and <b>scikit-learn</b>.</li>
-  <li>Projects include:</li>
-  <ul>
-    <li>Predictive models for medical image analysis and healthcare applications.</li>
-    <li>Use of architectures like <b>CNNs</b>, <b>RNNs</b>, and <b>Transformers</b> for sequence-based data, image recognition and natural language processing.</li>
-    <li>Statistical inferences with <b>Bayesian</b> and <b>Frequentist</b> methods.</li>
-    <li><b>Hyperparameter tuning</b>, <b>cross-validation</b>, and <b>ensemble learning</b> for enhanced model accuracy.</li>
-    <li>Combining disparate algorithm classes in logic induced data comprehenaions models implementing innovateive pre- and interstage processing strategies.</li>
-  </ul>
-</ul>
-
-<h3>Epidemiological & Pandemic Modeling</h3>
-<ul>
-  <li>Development of models to simulate disease spread, intervention impacts, and healthcare resource allocation.</li>
-  <li>Capabilities:</li>
-  <li>Use of <b>SIR models</b>, <b>Agent-based modeling</b>, and other epidemiological techniques to model infection dynamics.</li>
-  <li>Integration of real-time data using <b>web scraping</b> from healthcare databases and sources like <b>WHO</b> and <b>CDC</b>.</li>
-  <li>Advanced statistical analysis using <b>R</b> and <b>Python</b> with libraries such as <b>pandas</b>, <b>statsmodels</b>, and <b>seaborn</b> for data visualization.</li>
-</ul>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=U6oczNlEPeHv&format=png&color=000000" alt="Physics" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  Scientific Computing & Physics Simulations
-</h2>
-
-<h3>Physics Simulations</h3>
-<ul>
-  <li>Simulations involving advanced physics principles and computations for research and analysis.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>
-        Development of simulations, models, and visualizations for <b>fluid dynamics</b>, <b>electromagnetic field theory</b>, <b>quantum mechanics</b>, <b>general relativity</b>,
-        and <b>modern field theories</b>.
-      </li>
-      <li>Use of tools in <b>Python</b>, <b>Mathematica</b>, <b>MATLAB</b>, <b>Simulink</b>, and <b>NumPy</b> for high-precision modeling.</li>
-      <li>Custom algorithms for solving complex differential equations and numerical modeling.</li>
-      <li>Models for particle interaction in various physical force fields, applied to both theoretical and practical problems.</li>
-      <li>Developed simulations to address neurosurgical and mechanical engineering challenges.</li>
-    </ul>
-  </li>
-</ul>
-
-<h3>Clinical Report Generation & Lab Workflow Tools</h3>
-<ul>
-  <li>Automation and streamlining of report generation in clinical environments.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Development of reporting templates, statistical summaries, and predictive diagnostics using <b>Python</b> and <b>R</b>.</li>
-      <li>Integration with lab instruments and databases for automated workflow management, using <b>SQL</b>, <b>pandas</b>, and <b>Excel</b>.</li>
-    </ul>
-  </li>
-</ul>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=lxvJ4regpAYt&format=png&color=000000" alt="Web Scraping" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  Web Scraping & Automated Data Extraction
-</h2>
-
-<h3>Web Scraping Tools</h3>
-<ul>
-  <li>Automated data collection from a wide range of sources for research and analysis.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Use of libraries such as <b>BeautifulSoup</b>, <b>Scrapy</b>, and <b>Selenium</b> to extract and organize large datasets.</li>
-      <li>Efficient scraping of medical data, financial records, and epidemiological statistics from public databases and APIs.</li>
-      <li>Data cleaning, transformation, and storage using <b>pandas</b>, <b>SQLAlchemy</b>, and <b>HDF5</b> for efficient access and analysis.</li>
-    </ul>
-  </li>
-</ul>
-<h3>Data Wrangling, Formatting, & Labeling</h3>
-<ul>
-  <li>Comprehensive data processing workflows for handling and transforming large datasets.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Efficient data wrangling and cleaning using <b>pandas</b>, <b>NumPy</b>, and <b>Dask</b> for handling millions of data points.</li>
-      <li>Custom scripts to format and standardize datasets for compatibility with machine learning models and statistical tools.</li>
-      <li>Automated labeling, categorization, and annotation of data for supervised learning tasks.</li>
-      <li>Use of regular expressions and custom parsing functions to restructure raw data into structured formats such as CSV, JSON, and SQL databases.</li>
-      <li>Data validation and normalization to ensure consistency and accuracy across datasets.</li>
-    </ul>
-  </li>
-</ul>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=s9XBerU2L9kg&format=png&color=000000" alt="CS" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  Cybersecurity & System Optimization
-</h2>
-
-<h3>Automation of Security Protocols</h3>
-<ul>
-  <li>Development of tools to automate vulnerability scanning, intrusion detection, and endpoint security.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Network monitoring, anomaly detection, and secure access control using <b>Python</b>, <b>Bash</b>, and <b>PowerShell</b>.</li>
-      <li>Integration with libraries such as <b>nmap</b>, <b>Wireshark</b>, <b>Metasploit</b>, and <b>Scapy</b> for automated incident response.</li>
-      <li>Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.</li>
-    </ul>
-  </li>
-</ul>
-
-<h3>System Refactoring & Performance Tuning</h3>
-<ul>
-  <li>Optimization of large codebases for faster, parallel execution.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li><b>Threading</b>, <b>Multiprocessing</b>, and <b>CUDA</b> for GPU acceleration in <b>Python</b>, <b>C++</b>, and <b>C</b>.</li>
-      <li>Refactoring to improve runtime efficiency, memory usage, and system stability.</li>
-      <li>Utilization of multi-core CPU and GPU processing to improve real-time performance across distributed systems.</li>
-      <li>Scripts to automate software installation and system configuration using package managers like <code>winget</code>, <code>nuget</code>, and <code>choco</code>.</li>
-      <li>Focused on ensuring secure and efficient deployment environments for both personal and professional use.</li>
-    </ul>
-  </li>
-</ul>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=YCbKhwUNH1pc&format=png&color=000000" alt="UI/UX" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  UX/UI Development & Automation Tools
-</h2>
-
-<h3>UX/UI Development</h3>
-<ul>
-  <li>Custom-designed interfaces for user-friendly applications in healthcare, research, and data visualization.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Development of responsive web applications using <b>HTML</b>, <b>CSS</b>, and <b>JavaScript</b>.</li>
-      <li>Integration with <b>Bootstrap</b>, <b>React</b>, and <b>Vue.js</b> for enhanced interactivity and data visualization.</li>
-      <li>Focus on accessibility and usability, ensuring high-quality UX for end-users.</li>
-    </ul>
-  </li>
-</ul>
-
-<h3>Task Automation</h3>
-<ul>
-  <li>Automation scripts for repetitive workflows across research and development environments.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Automated data collection, cleaning, analysis, and reporting using <b>Python</b> and <b>Bash</b>.</li>
-      <li>Workflow automation in clinical and lab settings, integrating multiple software tools like <b>Excel</b>, <b>Access</b>, and <b>PowerShell</b>.</li>
-      <li>Tools for scheduling, file management, and communication across distributed teams using <b>Zapier</b> and <b>IFTTT</b>.</li>
-    </ul>
-  </li>
-</ul>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=cgRcQu5xLDJO&format=png&color=000000" alt="Stats" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  Statistical Tools & Data Analysis
-</h2>
-
-<h3>Advanced Statistical Models</h3>
-<ul>
-  <li>Development of statistical tools for deep analysis and hypothesis testing.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Use of <b>Linear Mixed Models</b>, <b>Generalized Linear Models</b>, and <b>Bayesian Inference</b> to explore complex datasets.</li>
-      <li>Time series analysis, survival models, and cross-sectional study analysis using <b>statsmodels</b>, <b>SciPy</b>, and <b>R</b>.</li>
-      <li>Custom-built tools for regression, residual diagnostics, and sensitivity analysis.</li>
-    </ul>
-  </li>
-</ul>
-
-<h3>Data Visualization Tools</h3>
-<ul>
-  <li>Creation of comprehensive visualizations for data-driven decision-making.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Development of dashboards and visual tools using <b>matplotlib</b>, <b>seaborn</b>, and <b>Plotly</b> for interactive graphics.</li>
-      <li>Statistical plotting for multi-dimensional data, including heatmaps, spider plots, and time-based visualizations.</li>
-    </ul>
-  </li>
-</ul>
-
-<h2>
-  <img src="https://img.icons8.com/?size=100&id=U6oczNlEPeHv&format=png&color=000000" alt="Parallel" style="height: 30px; vertical-align: middle; margin-right: 10px" />
-  Parallel Computing & Optimization
-</h2>
-
-<h3>High-Performance Computing</h3>
-<ul>
-  <li>Use of parallel computing techniques to solve large-scale computational problems.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Efficiently running processes across multiple CPU/GPU cores using <b>OpenMP</b>, <b>CUDA</b>, and <b>MPI</b>.</li>
-      <li>Code optimization for distributed systems, focusing on reducing computation time and memory overhead.</li>
-      <li>Utilization of libraries like <b>Dask</b> and <b>Ray</b> for parallel processing in Python.</li>
-    </ul>
-  </li>
-</ul>
-
-<h3>Numerical Optimization</h3>
-<ul>
-  <li>Development of algorithms for solving complex optimization problems in engineering and physics.</li>
-  <li>
-    Capabilities:
-    <ul>
-      <li>Use of <b>gradient descent</b>, <b>simulated annealing</b>, and other optimization techniques for large-scale data problems.</li>
-      <li>Application of optimization libraries like <b>SciPy</b> and <b>Cvxpy</b> to solve real-world problems in machine learning, physics, and economics.</li>
-    </ul>
-  </li>
-</ul>
+  </body>
+</html>
