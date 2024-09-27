@@ -41,7 +41,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 --->
 <table width="100%">
   
-  <tr height="400" >
+  <tr height="300" >
     <td align="center">
       <img src="/metrics.plugin.isocalendar.svg" alt=""></img>
     </td>
@@ -50,7 +50,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
     </td>
   </tr>
   
-  <tr height="400" >
+  <tr height="300" >
     <td align="center">
       <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
     </td>
@@ -59,7 +59,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
     </td>
   </tr>
 
-  <tr height="400" >
+  <tr height="300" >
     <td align="center">
       <img src="/github-metrics.svg" alt=""></img>
     </td>
