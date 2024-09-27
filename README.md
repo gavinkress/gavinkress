@@ -36,8 +36,9 @@ Sponsor
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics2" width="400"></p>
 <p align="center"><img src="/icons.svg" alt="Metrics3" width="400"></p>
-<p align="center"><img src="/metrics.plugin.languages.indepth.svg" alt="Metrics3" width="400"></p>
-<p align="center"><img src="/metrics.plugin.skyline.city.svg" alt="Metrics3" width="400">
+<p align="center"><img src="/metrics.plugin.languages.indepth.svg" alt="Metrics4" width="400"></p>
+<p align="center"><img src="/metrics.plugin.skyline.city.svg" alt="Metrics5" width="400">
+<p align="center"><img src="/metrics.plugin.starlists.languages.svg" alt="Metrics5" width="400">
 ---
 
 ##
