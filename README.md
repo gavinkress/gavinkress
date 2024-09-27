@@ -33,12 +33,30 @@ Sponsor
 ##
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
 --->
-<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics2" width="400"></p>
-<p align="center"><img src="/metrics.plugin.topics.icons.svg" alt="Metrics3" width="400"></p>
-<p align="center"><img src="/metrics.plugin.languages.indepth.svg" alt="Metrics4" width="400"></p>
-<p align="center"><img src="/metrics.plugin.skyline.city.svg" alt="Metrics5" width="400">
-<p align="center"><img src="/metrics.plugin.starlists.languages.svg" alt="Metrics5" width="400">
+<table>
+  <tr>
+    <td align="center">
+      <img src="/metrics.plugin.isocalendar.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img src="/metrics.plugin.skyline.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img src="/github-metrics.svg" alt=""></img>
+    </td>
+  </tr>
+    <tr>
+    <td align="center">
+      <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img src="/metrics.plugin.starlists.languages.svg" alt=""></img>
+    </td>
+    <td align="center">
+      <img src="/metrics.plugin.topics.icons.svg" alt=""></img>
+    </td>
+  </tr>
+</table>
 ---
 
 ##
