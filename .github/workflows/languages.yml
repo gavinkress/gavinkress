@@ -22,4 +22,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
+          plugin_starlists_limit_languages: 50
+          plugin_starlists_limit_repositories: 150
+          plugin_starlists_only: 🚀 My stack
  
