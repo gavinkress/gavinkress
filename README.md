@@ -61,7 +61,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
   <tr height="300" >
     <td align="center">
-      <img src="/github-metrics.svg" alt=""></img>
+      <img src="metrics.base.svg" alt=""></img>
     </td>
     <td align="center">
       <img src="/metrics.plugin.topics.icons.svg" alt=""></img>
