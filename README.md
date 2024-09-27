@@ -14,9 +14,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-
----
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td align="center">
       <h1 align="center">
@@ -42,19 +40,19 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 <table width="100%">
   
   <tr height="400" >
-    <td align="center">
+    <td align="center" width="50%">
       <img src="/metrics.plugin.isocalendar.svg" alt=""></img>
     </td>
-    <td align="center">
+    <td align="center" width="50%">
       <img src="/metrics.plugin.skyline.svg" alt=""></img>
     </td>
   </tr>
   
   <tr height="400" >
-    <td align="center">
+    <td align="center"  width="50%">
       <img src="metrics.base.svg" alt=""></img>
     </td>
-    <td align="center">
+    <td align="center"  width="50%">
       <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
       <img src="/metrics.plugin.starlists.languages.svg" alt=""></img>
       <img src="/metrics.plugin.topics.icons.svg" alt=""></img>
