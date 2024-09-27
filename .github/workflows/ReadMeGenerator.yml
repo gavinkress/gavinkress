@@ -1,0 +1,98 @@
+name: ReadMeGenerator
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  push:
+    {branches: ["master", "main"]}
+  pull_request:
+    {branches: ["master", "main"]}
+  workflow_dispatch:
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions: write-all
+    steps:
+    
+    #Base
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.base.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          base_indepth: yes
+          users_ignored: ''
+          #extras_js: |
+           # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
+           
+
+    #ISO Calendar
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.isocalendar.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_isocalendar: yes
+
+    #Starlists
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.starlists.languagesnew.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_starlists: yes
+          plugin_starlists_languages: yes
+          plugin_starlists_limit_repositories: 20
+          
+   #languages
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.languages.indepth.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size
+          plugin_languages_limit: 4
+          plugin_languages_analysis_timeout: 15
+          
+    #Topics
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.topics.icons.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons  
+
+    #Skyline     
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.skyline.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          plugin_skyline: yes
