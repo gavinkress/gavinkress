@@ -16,13 +16,12 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics2.base.svg
+          filename: metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
           base_indepth: yes
           users_ignored: ''
-          config_presets: "@lunar-red"
           #extras_js: |
            # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
 
