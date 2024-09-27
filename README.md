@@ -17,7 +17,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 <table align="center" width="100%">
   <tr>
     <td align="center">
-      <h1 align="center">
+      <h1 align="center" fontsize="20px">
         <img src="https://img.icons8.com/?size=100&id=rqO0dD2ziD9L&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
       Gavin Kress GitHub
       </h1>
