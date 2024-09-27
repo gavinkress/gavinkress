@@ -16,18 +16,24 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 -->
 
 ---
-
-<h1 align="center">
-  <img src="https://img.icons8.com/?size=100&id=rqO0dD2ziD9L&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
-Gavin Kress GitHub
-</h1>
-
-<a href="https://github.com/sponsors/gavinkress">
- <h4 align="center">
-  <img src="https://img.icons8.com/?size=100&id=rLMbY01ZXrPE&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
-Sponsor
-</h4>
-</a>
+<table style="border:none !important;" align="center">
+  <tr>
+    <td align="center">
+      <h1 align="center">
+        <img src="https://img.icons8.com/?size=100&id=rqO0dD2ziD9L&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+      Gavin Kress GitHub
+      </h1>
+    </td>
+    <td align="center">
+      <a href="https://github.com/sponsors/gavinkress">
+       <h4 align="center">
+        <img src="https://img.icons8.com/?size=100&id=rLMbY01ZXrPE&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
+      Sponsor
+      </h4>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!---
 ##
