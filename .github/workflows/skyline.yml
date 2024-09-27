@@ -1,4 +1,4 @@
-name: Skyline
+name: GitHub Skyline
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
@@ -16,9 +16,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.skyline.city.svg
+          filename: metrics.plugin.skyline.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: ''
           plugin_skyline: yes
+          plugin_skyline_year: 2020
+          plugin_skyline_frames: 6
           plugin_skyline_quality: 1
-
