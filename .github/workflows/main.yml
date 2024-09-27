@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
+          base: header, repositories
           #extras_js: |
            # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
 
