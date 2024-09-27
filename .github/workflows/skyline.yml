@@ -1,4 +1,4 @@
-name: Metrics
+name: Skyline
 on:
   # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
