@@ -34,7 +34,8 @@ Sponsor
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
 --->
 <p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
-<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics" width="400"></p>
+<p align="center"><img src="/metrics.plugin.isocalendar.svg" alt="Metrics2" width="400"></p>
+<p align="center"><img src="/icons.svg" alt="Metrics3" width="400"></p>
 ---
 
 ##
