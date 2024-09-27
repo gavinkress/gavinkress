@@ -11,12 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
       name: production
-    permissions:
-      contents: write
+    permissions: write-all
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.languages.svg
+          filename: metrics.plugin.starlists.languagesnew.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_starlists: yes
