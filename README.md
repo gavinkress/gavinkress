@@ -16,7 +16,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 -->
 
 ---
-<table style="border:none !important;" align="center">
+<table align="center">
   <tr>
     <td align="center">
       <h1 align="center">
@@ -39,9 +39,9 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 ##
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
 --->
-<table>
+<table width="100%">
   
-  <tr>
+  <tr height="400" >
     <td align="center">
       <img src="/metrics.plugin.isocalendar.svg" alt=""></img>
     </td>
@@ -50,7 +50,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
     </td>
   </tr>
   
-  <tr>
+  <tr height="400" >
     <td align="center">
       <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
     </td>
@@ -59,7 +59,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
     </td>
   </tr>
 
-  <tr>
+  <tr height="400" >
     <td align="center">
       <img src="/github-metrics.svg" alt=""></img>
     </td>
