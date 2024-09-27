@@ -22,6 +22,7 @@ jobs:
           repositories_forks: yes
           base_indepth: yes
           users_ignored: ''
+          config_presets: "@lunar-red"
           #extras_js: |
            # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
 
