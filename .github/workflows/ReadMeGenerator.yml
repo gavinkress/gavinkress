@@ -87,7 +87,22 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons  
 
-          
+    #Acheivements    
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          repositories_forks: yes
+          repositories_affiliations: ''
+          users_ignored: no
+          plugin_achievements: yes
+          plugin_achievements_only: sponsor, maintainer, octonaut
+
+
+  token: ${{ secrets.METRICS_TOKEN }}
+  base: ""
+
     #Skyline     
       - uses: lowlighter/metrics@latest
         with:
