@@ -14,42 +14,27 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ..
 -->
-<table align="center" width="100%">
+
+
+<table align="center" width="100%" border="0">
   <tr>
-    <td align="center">
-      <h1 align="center" fontsize="20px">
-        <img src="https://img.icons8.com/?size=100&id=rqO0dD2ziD9L&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
-      Gavin Kress GitHub
+    <td align="left">
+      <h1>
+        <img src="https://img.icons8.com/?size=100&id=rqO0dD2ziD9L&format=png&color=000000" alt="GitHub Icon" style="height: 30px; vertical-align: middle;">
+        Gavin Kress GitHub
       </h1>
     </td>
-    <td align="center">
+    <td align="right">
       <a href="https://github.com/sponsors/gavinkress">
-       <h4 align="center">
-        <img src="https://img.icons8.com/?size=100&id=rLMbY01ZXrPE&format=png&color=000000" alt="Sponser Icon" style="height: 30px; vertical-align: middle; margin-right: 10px;">
-      Sponsor
-      </h4>
+        <h2>
+          <img src="https://img.icons8.com/?size=100&id=rLMbY01ZXrPE&format=png&color=000000" alt="Sponsor Icon" style="height: 30px; vertical-align: middle;">
+          Sponsor
+        </h2>
       </a>
     </td>
   </tr>
 </table>
 
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavinkress&theme=github_dark"
-  style="display: inline; width: 320px;"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=7"
-  style="display: inline; width: 320px;"
-/>
-<br />
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark"
-  style="display: inline; width: 320px;"
-/>
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavinkress&theme=github_dark"
-  style="display: inline; width: 320px;"
-/>
 <!---
 ##
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
@@ -57,24 +42,29 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 --->
 <table width="100%">
   <tr height="300" >
-    <td width="50%">
-      <img src="/metrics.plugin.isocalendar.svg" alt=""></img>
+    <td align="center">
+      <img src="/metrics.base.svg" width="100%"></img>
+      <img src="/metrics.plugin.isocalendar.svg"  width="100%"></img>
     </td>
-    <td width="50%">
-      <img src="/metrics.plugin.achievements.svg" alt=""></img>
+    <td >
+      <img src="/metrics.plugin.achievements.svg" width="100%"></img>
     </td>
   </tr>
+  <tr></tr>
   <tr height="300" >
-    <td width="50%">
-      <img src="/metrics.base.svg" alt=""></img>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=7" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark" width="100%"/>
     </td>
     <td  width="50%">
-      <img src="/metrics.plugin.starlists.languages.svg" alt=""></img>
-      <img src="/metrics.plugin.topics.icons.svg" alt=""></img>
+      <img src="/metrics.plugin.starlists.languages.svg"  height="100%" width="100%"></img>
+      <img src="/metrics.plugin.topics.icons.svg"  width="100%" height="100%"></img>
     </td>
   </tr>
 </table>
----
+
+</html>
+
 
 ##
 | **Category**  | **Technologies** |
