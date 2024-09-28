@@ -50,7 +50,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   
   <tr height="400" >
     <td align="center"  width="50%">
-      <img src="metrics.base.svg" alt=""></img>
+      <img src="/metrics.base.svg" alt=""></img>
     </td>
     <td align="center"  width="50%">
       <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
