@@ -33,6 +33,23 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   </tr>
 </table>
 
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gavinkress&theme=github_dark"
+  style="display: inline; width: 320px;"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=7"
+  style="display: inline; width: 320px;"
+/>
+<br />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark"
+  style="display: inline; width: 320px;"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gavinkress&theme=github_dark"
+  style="display: inline; width: 320px;"
+/>
 <!---
 ##
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
