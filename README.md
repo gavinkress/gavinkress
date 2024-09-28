@@ -53,7 +53,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   <tr></tr>
   <tr height="300" >
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=7" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=4" width="100%"/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark" width="100%"/>
     </td>
     <td  width="50%">
