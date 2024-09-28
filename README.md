@@ -40,8 +40,8 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
 <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
 --->
-
-
+![Gavin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gavinkress)
+![Gavins's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true\&include_all_commits=true)
   
 <table width="100%">
   <tr>
