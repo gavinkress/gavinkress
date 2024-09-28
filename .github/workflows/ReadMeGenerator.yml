@@ -39,12 +39,14 @@ jobs:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
           user: gavinkress
           template: classic
-          config_display: columns
+          config_display: small
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -57,6 +59,8 @@ jobs:
           filename: metrics.plugin.starlists.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -79,6 +83,8 @@ jobs:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -109,6 +115,8 @@ jobs:
           filename: metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -128,6 +136,8 @@ jobs:
           filename: metrics.plugin.achievements.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -140,7 +150,7 @@ jobs:
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: X
+          plugin_achievements_threshold: C
 
       #Habits   
       - uses: lowlighter/metrics@latest
@@ -148,6 +158,8 @@ jobs:
           filename: metrics.plugin.habits.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -172,6 +184,8 @@ jobs:
           filename: metrics.plugin.skyline.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -195,6 +209,8 @@ jobs:
           filename: metrics.plugin.stargazers.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
@@ -217,6 +233,8 @@ jobs:
           filename: metrics.plugin.wakatime.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
+          base_indepth: yes
+          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
