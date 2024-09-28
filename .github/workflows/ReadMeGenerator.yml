@@ -41,7 +41,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
           base_indepth: yes
-          users_ignored: ''
+          users_ignored: no
           #extras_js: |
            # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
            
@@ -51,9 +51,9 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ''
           repositories_forks: yes
-          users_ignored: ''
+          users_ignored: no
           plugin_isocalendar: yes
 
     #Starlists
@@ -61,9 +61,9 @@ jobs:
         with:
           filename: metrics.plugin.starlists.languagesnew.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ''
           repositories_forks: yes
-          users_ignored: ''
+          users_ignored: no
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit_repositories: 50
@@ -73,9 +73,9 @@ jobs:
         with:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ''
           repositories_forks: yes
-          users_ignored: ''
+          users_ignored: no
           plugin_languages: yes
          # plugin_languages_ignored: >-
           #  html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -90,9 +90,9 @@ jobs:
         with:
           filename: metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
+          base: ''
           repositories_forks: yes
-          users_ignored: ''
+          users_ignored: no
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons  
@@ -104,5 +104,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
-          users_ignored: ''
+          users_ignored: no
           plugin_skyline: yes
