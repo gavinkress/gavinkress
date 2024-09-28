@@ -42,6 +42,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_isocalendar: yes
 
 
@@ -54,6 +60,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_starlists: yes
           plugin_starlists_languages: yes
           plugin_starlists_limit_languages: 0
@@ -70,6 +82,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_languages: yes
          # plugin_languages_ignored: >-
           #  html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
@@ -94,6 +112,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons  
@@ -107,6 +131,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
@@ -121,6 +151,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_charts_type: classic
@@ -139,6 +175,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_skyline: yes
           plugin_skyline_quality: 1
           plugin_skyline_frames: 60
@@ -156,6 +198,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_stargazers: yes
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
@@ -172,6 +220,12 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           plugin_wakatime: yes
           plugin_wakatime_days: 365
           plugin_wakatime_languages_other: yes
