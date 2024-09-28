@@ -1,6 +1,6 @@
 name: ReadMeGenerator
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 * * * *"}]
   push:
     {branches: ["master", "main"]}
   pull_request:
@@ -11,7 +11,6 @@ jobs:
     environment: 
       name: production
     permissions: write-all
-    
     
     steps:        
     #Base
@@ -24,6 +23,12 @@ jobs:
           repositories_affiliations: ''
           base_indepth: yes
           users_ignored: no
+          user: gavinkress
+          template: classic
+          config_display: columns
+          config_octicon: yes
+          config_timezone: America/New_York
+          config_twemoji: yes
           #extras_js: |
            # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
            
@@ -71,7 +76,12 @@ jobs:
            # gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
-          plugin_languages_limit: no
+          plugin_languages_limit: 15
+          plugin_languages_analysis_timeout: 300
+          plugin_languages_analysis_timeout_repositories: 300
+          plugin_languages_categories: 300
+          plugin_languages_colors: github
+          plugin_languages_threshold: 0%
 
           
           
@@ -98,6 +108,27 @@ jobs:
           repositories_affiliations: ''
           users_ignored: no
           plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: X
+
+      #Acheivements    
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.habits.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          repositories_forks: yes
+          repositories_affiliations: ''
+          users_ignored: no
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 30
+          plugin_habits_languages_threshold: 0%
 
     #Skyline     
       - uses: lowlighter/metrics@latest
@@ -110,9 +141,46 @@ jobs:
           users_ignored: no
           plugin_skyline: yes
           plugin_skyline_quality: 1
-          plugin_skyline_year: 2024
+          plugin_skyline_frames: 60
+          plugin_skyline_settings: {"url": "https://skyline.github.com/${login}/${year}",
+  "ready": "[...document.querySelectorAll('span')].map(span => span.innerText).includes('Share on Twitter')",
+  "wait": 1,
+  "hide": "button, footer, a"}
+        plugin_skyline_year: current-year
 
+      #Stargazers  
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.stargazers.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          repositories_forks: yes
+          repositories_affiliations: ''
+          users_ignored: no
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+          plugin_stargazers_days: 14
+          plugin_stargazers_worldmap: yes
+          plugin_stargazers_worldmap_sample: 0
 
+        #Waka
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ''
+          repositories_forks: yes
+          repositories_affiliations: ''
+          users_ignored: no
+          plugin_wakatime: yes
+          plugin_wakatime_days: 365
+          plugin_wakatime_languages_other: yes
+          plugin_wakatime_limit: 0
+          plugin_wakatime_repositories_visibility: all
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: gavinkress
 
 
           
