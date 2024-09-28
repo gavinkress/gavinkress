@@ -41,22 +41,22 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
 --->
 <table width="100%">
-  <tr height="300" >
+  <tr height="300">
     <td align="center">
+      <img src="/metrics.plugin.achievements.svg"></img>
+    </td>
+    <td >      
       <img src="/metrics.base.svg" width="100%"></img>
       <img src="/metrics.plugin.isocalendar.svg"  width="100%"></img>
-    </td>
-    <td >
-      <img src="/metrics.plugin.achievements.svg" width="100%"></img>
     </td>
   </tr>
   <tr></tr>
   <tr height="300" >
-    <td width="50%" align="center">
+    <td width="35%" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=4" width="100%"/>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark" width="100%"/>
     </td>
-    <td  width="50%">
+    <td  width="65%">
       <img src="/metrics.plugin.starlists.languages.svg"  height="100%" width="100%"></img>
       <img src="/metrics.plugin.topics.icons.svg"  width="100%" height="100%"></img>
     </td>
