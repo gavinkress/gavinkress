@@ -51,7 +51,10 @@ jobs:
         with:
           filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          base_indepth: yes
+          users_ignored: ''
           plugin_isocalendar: yes
 
     #Starlists
@@ -59,32 +62,41 @@ jobs:
         with:
           filename: metrics.plugin.starlists.languagesnew.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          base_indepth: yes
+          users_ignored: ''
           plugin_starlists: yes
           plugin_starlists_languages: yes
-          plugin_starlists_limit_repositories: 20
+          plugin_starlists_limit_repositories: 50
           
    #languages
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.languages.indepth.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          base_indepth: yes
+          users_ignored: ''
           plugin_languages: yes
-          plugin_languages_ignored: >-
-            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-            gnuplot
+         # plugin_languages_ignored: >-
+          #  html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+           # gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
-          plugin_languages_analysis_timeout: 15
+
           
     #Topics
       - uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.topics.icons.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          base_indepth: yes
+          users_ignored: ''
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons  
@@ -94,5 +106,8 @@ jobs:
         with:
           filename: metrics.plugin.skyline.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: ''
+          base: header, activity, community, repositories, metadata
+          repositories_forks: yes
+          base_indepth: yes
+          users_ignored: ''
           plugin_skyline: yes
