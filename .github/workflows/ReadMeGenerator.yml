@@ -23,9 +23,7 @@ jobs:
           repositories_affiliations: ''
           base_indepth: yes
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -44,9 +42,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: small
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -64,9 +60,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -88,16 +82,11 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
           plugin_languages: yes
-         # plugin_languages_ignored: >-
-          #  html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
-           # gnuplot
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 15
@@ -120,9 +109,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -137,20 +124,16 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
           base_indepth: yes
-          repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
-          plugin_achievements_threshold: C
 
       #Habits   
       - uses: lowlighter/metrics@latest
@@ -163,9 +146,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -188,10 +169,6 @@ jobs:
           repositories: 100
           repositories_forks: yes
           repositories_affiliations: ''
-          users_ignored: no
-          user: gavinkress
-          template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -214,9 +191,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
@@ -238,9 +213,7 @@ jobs:
           repositories_forks: yes
           repositories_affiliations: ''
           users_ignored: no
-          user: gavinkress
           template: classic
-          config_display: columns
           config_octicon: yes
           config_timezone: America/New_York
           config_twemoji: yes
