@@ -53,7 +53,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
-          base_indepth: yes
           users_ignored: ''
           plugin_isocalendar: yes
 
@@ -64,7 +63,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
-          base_indepth: yes
           users_ignored: ''
           plugin_starlists: yes
           plugin_starlists_languages: yes
@@ -77,7 +75,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
-          base_indepth: yes
           users_ignored: ''
           plugin_languages: yes
          # plugin_languages_ignored: >-
@@ -95,7 +92,6 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
-          base_indepth: yes
           users_ignored: ''
           plugin_topics: yes
           plugin_topics_limit: 0
@@ -108,6 +104,5 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
           repositories_forks: yes
-          base_indepth: yes
           users_ignored: ''
           plugin_skyline: yes
