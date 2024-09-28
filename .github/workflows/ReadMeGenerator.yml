@@ -25,7 +25,6 @@ jobs:
           repositories_affiliations: ''
           base_indepth: yes
           users_ignored: no
-          config_display: large
           #extras_js: |
            # document.querySelectorAll("h2")?.forEach(h2 => h2.remove())
            
@@ -40,12 +39,12 @@ jobs:
           repositories_affiliations: ''
           users_ignored: no
           plugin_isocalendar: yes
-          config_display: large
+
 
     #Starlists
       - uses: lowlighter/metrics@latest
         with:
-          filename: metrics.plugin.starlists.languagesnew.svg
+          filename: metrics.plugin.starlists.languages.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ''
           repositories_forks: yes
@@ -53,8 +52,7 @@ jobs:
           users_ignored: no
           plugin_starlists: yes
           plugin_starlists_languages: yes
-          plugin_starlists_limit_repositories: 50
-          config_display: large
+
 
           
    #languages
@@ -73,7 +71,7 @@ jobs:
           plugin_languages_indepth: yes
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: no
-          config_display: large
+
           
           
     #Topics
@@ -88,7 +86,7 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons  
-          config_display: large
+
           
     #Skyline     
       - uses: lowlighter/metrics@latest
@@ -102,7 +100,7 @@ jobs:
           plugin_skyline: yes
           plugin_skyline_quality: 1
           plugin_skyline_year: 2024
-          config_display: large
+
 
 
 
