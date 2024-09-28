@@ -15,7 +15,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 - ⚡ Fun fact: ..
 -->
 
-
+<html>
 <table align="center" width="100%" border="0">
   <tr>
     <td align="left">
@@ -40,28 +40,41 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
 <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
 --->
+
+
+  
 <table width="100%">
-  <tr height="300">
-    <td align="center">
-      <img src="/metrics.plugin.achievements.svg"></img>
+  <tr>
+    <td width="35%" align="center" valign="top">
+      <img src="/metrics.plugin.achievements.svg" style="width: 100%; height: auto;">
     </td>
-    <td >      
-      <img src="/metrics.base.svg" width="100%"></img>
-      <img src="/metrics.plugin.isocalendar.svg"  width="100%"></img>
+    <td width="65%" valign="top"> 
+      <div style="margin: 30px 0;">
+        <img src="/metrics.base.svg" style="width: 100%; height: auto;">
+      </div>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <div style="margin: 30px 0;">
+        <img src="/metrics.plugin.isocalendar.svg" style="width: 100%; height: auto;">
+      </div>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <div style="margin: 30px 0;">
+        <img src="/metrics.plugin.habits.svg" style="width: 100%; height: auto;">
+      </div>
     </td>
   </tr>
   <tr></tr>
-  <tr height="300" >
-    <td width="35%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=4" width="100%"/>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark" width="100%"/>
+  <tr>
+    <td width="35%" align="center" valign="top">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=4" style="width: 100%; height: auto;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark" style="width: 100%; height: auto;">
     </td>
-    <td  width="65%">
-      <img src="/metrics.plugin.starlists.languages.svg"  height="100%" width="100%"></img>
-      <img src="/metrics.plugin.topics.icons.svg"  width="100%" height="100%"></img>
+    <td width="65%" valign="top">
+      <img src="/metrics.plugin.starlists.languages.svg" style="width: 100%; height: auto;">
+      <img src="/metrics.plugin.topics.icons.svg" style="width: 100%; height: auto;">
     </td>
   </tr>
 </table>
+
 
 </html>
 
