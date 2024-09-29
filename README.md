@@ -39,16 +39,31 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 ##
 |![Gavin Kress's github stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gavinkress)|
 <img src="/metrics.plugin.languages.indepth.svg" alt=""></img>
+
+![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinkress\&include_all_commits=true\&rank_icon=github\&show_icons=true\&show=reviews,contribs,issues\&show_icons=true\&hide=discussions_started,discussions_answered,prs_merged,prs_merged_percentage,issues\&theme=radical)
+
+
+<figure><embed src="https://wakatime.com/share/@gavinkress/2f5a9a69-748e-4161-8fbc-ae40781dc8f4.svg"></embed></figure>
 --->
-![Gavin's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gavinkress)
-![Gavins's GitHub stats](https://github-readme-stats.vercel.app/api?username=gavinkress&show_icons=true\&include_all_commits=true)
-  
+
+
+
 <table width="100%">
   <tr>
-    <td width="35%" align="center" valign="top">
-      <img src="/metrics.plugin.achievements.svg" style="width: 100%; height: auto;">
+    <td width="40%" align="center" valign="top">
+      <div style="margin: 30px 0;">
+        <img src="/metrics.plugin.achievements.svg" style="width: 100%; height: auto;">
+      </div>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <div style="margin: 30px 0;">
+        <img src="https://github-readme-stats.vercel.app/api?username=gavinkress&include_all_commits=true&show_icons=true&rank_icon=github&theme=radical" style="width: 100%; height: auto;">
+      </div>
+      <hr style="border: none; border-top: 1px solid #ccc;">
+      <div style="margin: 30px 0;">
+        <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gavinkress&include_all_commits=true&show_icons=true&layout=compact&theme=radical" style="width: 100%; height: auto;">
+      </div>
     </td>
-    <td width="65%" valign="top"> 
+    <td width="60%" valign="top"> 
       <div style="margin: 30px 0;">
         <img src="/metrics.base.svg" style="width: 100%; height: auto;">
       </div>
@@ -64,11 +79,11 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
   </tr>
   <tr></tr>
   <tr>
-    <td width="35%" align="center" valign="top">
+    <td width="40%" align="center" valign="top">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gavinkress&theme=github_dark&utcOffset=4" style="width: 100%; height: auto;">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gavinkress&theme=github_dark" style="width: 100%; height: auto;">
     </td>
-    <td width="65%" valign="top">
+    <td width="60%" valign="top">
       <img src="/metrics.plugin.starlists.languages.svg" style="width: 100%; height: auto;">
       <img src="/metrics.plugin.topics.icons.svg" style="width: 100%; height: auto;">
     </td>
