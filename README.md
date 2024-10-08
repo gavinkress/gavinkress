@@ -48,18 +48,6 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 <table width="100%">
   <tr>
-    <td>
-      <div>
-        <img src="https://wakatime.com/share/@gavinkress/a06f8d22-f685-4cb8-bc7a-88f5c8141770.svg" style="width: 100%; height: auto;">
-      </div>
-    </td>
-    <td>
-      <div>
-        <img src="https://wakatime.com/share/@gavinkress/4bae50e9-35b4-4cc2-9ffb-005bfa6845b0.svg" style="width: 100%; height: auto;">
-      </div>
-    </td>
-  </tr>
-  <tr>
     <td width="40%" align="center" valign="top">
       <div style="margin: 30px 0;">
         <img src="/metrics.plugin.achievements.svg" style="width: 100%; height: auto;">
@@ -96,6 +84,18 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
     <td width="60%" valign="top">
       <img src="/metrics.plugin.starlists.languages.svg" style="width: 100%; height: auto;">
       <img src="/metrics.plugin.topics.icons.svg" style="width: 100%; height: auto;">
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <div>
+        <img src="https://wakatime.com/share/@gavinkress/31638b68-287a-48bb-bdc4-ec53e2966cc5.svg" " style="height: 100%; width: auto;">
+      </div>
+    </td>
+    <td>
+      <div>
+        <img src="https://wakatime.com/share/@gavinkress/41a85eba-6513-4c15-847a-ce378bf1d28b.svg" style="width: 100%; height: auto;">
+      </div>
     </td>
   </tr>
 </table>
