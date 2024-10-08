@@ -31,7 +31,7 @@
                                 </svg>
                                 My stack
                             </h2>
-                            <div class="count">13 repositories</div>
+                            <div class="count">14 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -40,11 +40,11 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="140" height="8" fill="#012456"/>
-                                        <rect mask="url(#languages-bar)" x="140" y="0" width="70" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="210" y="0" width="70" height="8" fill="#da5b0b"/>
-                                        <rect mask="url(#languages-bar)" x="280" y="0" width="70" height="8" fill="#563d7c"/>
-                                        <rect mask="url(#languages-bar)" x="349.99999999999994" y="0" width="70" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="180" height="8" fill="#012456"/>
+                                        <rect mask="url(#languages-bar)" x="180" y="0" width="60" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="240" y="0" width="60" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="299.99999999999994" y="0" width="60" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="359.99999999999994" y="0" width="60" height="8" fill="#3572a5"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -57,8 +57,8 @@
                                                 PowerShell
                                             </div>
                                             <small>
-                                                <div>15.38%</div>
-                                                <div>2★</div>
+                                                <div>21.43%</div>
+                                                <div>3★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -69,7 +69,7 @@
                                                 Jupyter Notebook
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -81,7 +81,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -95,7 +95,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -107,7 +107,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
