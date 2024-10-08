@@ -45,9 +45,9 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
 
 <figure><embed src="https://wakatime.com/share/@gavinkress/2f5a9a69-748e-4161-8fbc-ae40781dc8f4.svg"></embed></figure>
 --->
-
-
-
+<div>
+  <figure><embed src="https://wakatime.com/share/@gavinkress/4bae50e9-35b4-4cc2-9ffb-005bfa6845b0.svg"></embed></figure>
+</div>
 <table width="100%">
   <tr>
     <td width="40%" align="center" valign="top">
