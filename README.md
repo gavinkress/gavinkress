@@ -159,7 +159,7 @@ https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white
                     <ul>
                         <li>Network monitoring, anomaly detection, and secure access control using <b>Python</b>, <b>Bash</b>, and <b>PowerShell</b>.</li>
                         <li>Integration with libraries such as <b>nmap</b>, <b>Wireshark</b>, <b>Metasploit</b>, and <b>Scapy</b> for automated incident response.</li>
-                        <li>Task automation for regular security audits, secure software deployment, and penetration testing using **Ansible** and **Terraform**.</li>
+                        <li>Task automation for regular security audits, secure software deployment, and penetration testing using Ansible and Terraform.</li>
                     </ul>
                 </li>
             </ul>
