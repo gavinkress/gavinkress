@@ -1,0 +1,65 @@
+name: Sync Personal README to Org and Enterprise
+
+on:
+  push:
+    paths:
+      - "README.md"
+    branches:
+      - main
+
+jobs:
+  sync-readmes:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out personal repo
+        uses: actions/checkout@v3
+
+      - name: Set Git identity
+        run: |
+          git config --global user.name "gavinkress"
+          git config --global user.email "me@gavinkress.org"
+
+      # ----------------------------------------
+      # Step 1: Update ORG README at Gavin-Kress/.github/profile/README.md
+      # ----------------------------------------
+      - name: Clone org .github repo
+        run: |
+          git clone https://x-access-token:${{ secrets.ENTERPRISE_TOKEN }}@github.com/Gavin-Kress/.github.git org-profile
+
+      - name: Overwrite org profile README
+        run: |
+          mkdir -p org-profile/profile
+          cp README.md org-profile/profile/README.md
+
+      - name: Commit and push to org profile
+        run: |
+          cd org-profile
+          git add profile/README.md
+          git commit -m "Sync from personal README" || echo "No changes to commit"
+          git push
+
+      # ----------------------------------------
+      # Step 2: Update ENTERPRISE README (GavinKress Overview)
+      # ----------------------------------------
+      - name: Update enterprise overview README via GraphQL
+        run: |
+          # Read and escape README content for JSON
+          ESCAPED_README=$(jq -Rs '.' < README.md)
+
+          # Construct GraphQL payload using inline JSON
+          cat > payload.json <<EOF
+          {
+            "query": "mutation UpdateEnterprise(\$enterprise: String!, \$description: String!) { updateEnterpriseProfile(input: { enterprise: \$enterprise, description: \$description }) { enterprise { name description } } }",
+            "variables": {
+              "enterprise": "GavinKress",
+              "description": $ESCAPED_README
+            }
+          }
+          EOF
+
+          # Send the GraphQL mutation
+          curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer ${{ secrets.ENTERPRISE_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --data @payload.json
